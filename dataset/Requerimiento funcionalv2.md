@@ -1,6 +1,7 @@
 
 
 # Requerimiento no Funcionales.
+![Imagene gif software](https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif)
 
 Requerimiento funcional
 
@@ -24,5 +25,6 @@ ID Requerimiento Tipo Criterio
 1. Tiempos de respuesta Rendimiento 2 segundos en UI.
 2. Compatibilidad móvil. Usabilidad Diseño responsivo
 3. Seguridad de datos. Seguridad Hash y cifrado de datos
+
 
 
