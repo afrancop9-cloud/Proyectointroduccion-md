@@ -1,43 +1,66 @@
 # Proyectointroduccion-md
-# Proyectofinal
-Esto es el proyecto final de introducción 
-![imagen de letras](https://zimbronapps.com/wp-content/uploads/2017/08/Ingenier%C3%ADa-de-Software-1024x700.png)
-# Requerimiento funcionales y no funcioanes y de las mas tareas que van en este proyecto final, cada uno con su carpeta.
-> Haga click en el boton [Requerimientos](tarea.md)
-># UNEMI
+#  Agenda Personal de Citas
 
-# UNIVERSIDAD ESTATAL DE MILAGRO
+![Imagen gif de agenda](https://www.eadea.net/hs-fs/hubfs/cal1.gif?width=620&name=cal1.gif)
 
-# FACULTAD DE CIENCIAS E INGENIERIA
+##  Descripción
+Aplicación que permite **registrar, consultar, editar y eliminar citas personales**, ofreciendo una forma digital y sencilla de organizar actividades diarias.
 
-# CARRERA:
+---
 
-Ingeniería En Software
+## Objetivos
+- Crear una agenda electrónica funcional.  
+- Facilitar la gestión de citas con una interfaz amigable.  
+- Garantizar el almacenamiento y actualización de datos.  
+- Aplicar buenas prácticas de mantenimiento y control de versiones.
 
-TEMA:
+---
 
-Requerimientos
+##  Requerimientos
 
-AUTOR:
+### Funcionales
+- Registrar, editar, eliminar y buscar citas.  
+- Mostrar lista completa de citas.
 
-Alinton Andres Franco Piñan
+### No Funcionales
+- Interfaz intuitiva.  
+- Respuesta rápida.  
+- Código claro y mantenible.
 
-ASIGNATURA:
+---
 
-Introducciona la ingeniera de software
+##  Tabla de Pruebas
 
-DOCENTE:
+| Caso | Acción | Resultado Esperado |
+|------|--------|--------------------|
+| CP01 | Crear cita válida | Cita guardada correctamente |
+| CP02 | Eliminar cita | Cita eliminada de la lista |
+| CP03 | Editar cita | Cita actualizada con éxito |
+| CP04 | Buscar cita | Muestra coincidencias correctas |
 
-ING. Jorge Dumar Guevara Serrano
+---
 
-FECHA DE ENTREGA:
+##  Tipo de Mantenimiento Propuesto
 
-Jueves 23 de octubre del 2025
+| Tipo | Aplicación |
+|------|-------------|
+| Correctivo | Corregir errores de registro o visualización |
+| Adaptativo | Ajustar a nuevos sistemas o navegadores |
+| Perfectivo | Agregar recordatorios o mejoras visuales |
+| Preventivo | Optimizar código y prevenir fallas |
 
-PERIODO:
 
-Abril - Julio
 
-2025
+---
 
-MILAGRO-ECUADOR
+##  Reflexión sobre Control de Versiones
+El uso de **Git** facilita registrar cambios, trabajar en equipo, volver a versiones anteriores y mantener orden en el desarrollo.  
+Es esencial para **controlar el mantenimiento** y evolución del software de manera profesional.
+
+---
+
+**Autor:** *[Alinton Andres Franco Piñan]*  
+**Fecha:** *[6/11/2025]*  
+**Proyecto:** *Agenda Personal de Citas*
+
+**docente:** *[ING.Jorge Dumar Guevara]* 
