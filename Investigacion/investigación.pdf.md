@@ -30,11 +30,7 @@ Frutas
 
 # Imágenes
 
-! [logo de Wikipedia] (
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-
-
-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
+![logo de Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
 
 Tabla.
 
