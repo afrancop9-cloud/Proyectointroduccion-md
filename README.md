@@ -59,7 +59,7 @@ Es esencial para **controlar el mantenimiento** y evolución del software de man
 
 ---
 
-**Autor:** *[Alinton Andres Franco Piñan]*  
+**Autor:** **[Alinton Andres Franco Piñan]** 
 **Fecha:** *[6/11/2025]*  
 **Proyecto:** *Agenda Personal de Citas*
 
