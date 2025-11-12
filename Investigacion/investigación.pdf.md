@@ -44,4 +44,8 @@ Tabla.
 # Ventajas de usar Mark Down en combinación con GitHub
 
 · Facilidad de uso, el control de versiones integrado de GitHub y la colaboración sencilla entre desarrolladores.
+# como agregar una imagen Gif
 
+pues es facil y sencillo es la misma manera que poner imagen es asi "![]()" donde es poner el nombre de la imgen y entre parentesis poner el link de la imagen. ejemplo:
+
+![Imagen](https://user-images.githubusercontent.com/13174059/43623851-146acf7e-9716-11e8-83b9-6fc68bcce2e0.gif)
