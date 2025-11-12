@@ -1,5 +1,5 @@
 # STRUCTURA_REPRO
 
-La?singulare imagen es una capturareferente a la estrucrtura del Proyecto..
+La siguiente imagen es una captura referente a la estrucrtura del Proyecto..
 
-![](images/c0e6026985bd109fd9e36765f71bb7f60ce0e5a2a51d6ab3932d90f14d6a20ad.jpg)
+<img width="1360" height="679" alt="image" src="https://github.com/user-attachments/assets/c9d6b7c4-977d-4656-82c6-d1d82af897a7" />
