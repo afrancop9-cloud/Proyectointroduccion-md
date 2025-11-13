@@ -57,3 +57,15 @@ pues es facil y sencillo es la misma manera que poner imagen es asi "![]()" dond
 ### [Watch this video on YouTube](https://youtu.be/UGRyeQrzpGA)
 
 [embed_url]("https://youtu.be/pkLGczIXR1A?si=cAIT1A1i6dC_97EU")
+
+## Para agregar video hay de varias manera pero no todas cogen el codigo ya que Markdown estándar no reproduce video directamente.
+* 1 Se puede copiar el link de un video de Youtube y generar ese codigo a Markdown se lo hace con la aplicacion "ideariver", o si no descargas un video en mp4 y lo pegas al archivo y listo, pero no debe pasarse de 10MB.
+
+
+https://github.com/user-attachments/assets/5ff8ca45-f27a-45b5-9c82-ebcd7b7d4748         
+
+
+https://github.com/user-attachments/assets/2cd292b0-be0b-41ea-847d-cfad41e3dc00
+
+
+
