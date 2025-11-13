@@ -49,3 +49,11 @@ Tabla.
 pues es facil y sencillo es la misma manera que poner imagen es asi "![]()" donde es poner el nombre de la imgen y entre parentesis poner el link de la imagen. ejemplo:
 
 ![Imagen](https://user-images.githubusercontent.com/13174059/43623851-146acf7e-9716-11e8-83b9-6fc68bcce2e0.gif)
+
+## Agregar un video en Markdown 
+
+[![Watch the video](https://img.youtube.com/vi/UGRyeQrzpGA/maxresdefault.jpg)](https://youtu.be/UGRyeQrzpGA)
+
+### [Watch this video on YouTube](https://youtu.be/UGRyeQrzpGA)
+
+[embed_url]("https://youtu.be/pkLGczIXR1A?si=cAIT1A1i6dC_97EU")
