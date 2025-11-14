@@ -1,6 +1,6 @@
 # Proyectointroduccion-md
-#  Agenda Personal de Citas
-
+#  Agenda Personal de Citas 😌
+                                🥇 🙀
 ![Imagen gif de agenda](https://www.eadea.net/hs-fs/hubfs/cal1.gif?width=620&name=cal1.gif)
 
 ##  Descripción
@@ -8,7 +8,7 @@ Aplicación que permite **registrar, consultar, editar y eliminar citas personal
 
 ---
 
-## Objetivos
+## Objetivos ⚡
 - Crear una agenda electrónica funcional.  
 - Facilitar la gestión de citas con una interfaz amigable.  
 - Garantizar el almacenamiento y actualización de datos.  
@@ -16,20 +16,20 @@ Aplicación que permite **registrar, consultar, editar y eliminar citas personal
 
 ---
 
-##  Requerimientos
+##  Requerimientos 🌐
 
-### Funcionales
+### Funcionales ℹ️
 - Registrar, editar, eliminar y buscar citas.  
 - Mostrar lista completa de citas.
 
-### No Funcionales
+### No Funcionales ℹ️
 - Interfaz intuitiva.  
 - Respuesta rápida.  
 - Código claro y mantenible.
 
 ---
 
-##  Tabla de Pruebas
+##  Tabla de Pruebas  ☑️
 
 | Caso | Acción | Resultado Esperado |
 |------|--------|--------------------|
