@@ -65,7 +65,18 @@ pues es facil y sencillo es la misma manera que poner imagen es asi "![]()" dond
 https://github.com/user-attachments/assets/5ff8ca45-f27a-45b5-9c82-ebcd7b7d4748         
 
 
-https://github.com/user-attachments/assets/2cd292b0-be0b-41ea-847d-cfad41e3dc00
+
+
+
+https://github.com/user-attachments/assets/b92a2a51-4047-4149-b04c-ae1102679a89
+
+
+
+
+https://github.com/user-attachments/assets/95e2ce7c-f78f-4700-97a4-98cab070c5bf
+
+
+
 
 
 
