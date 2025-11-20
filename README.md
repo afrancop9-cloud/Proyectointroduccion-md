@@ -40,7 +40,7 @@ Aplicación que permite **registrar, consultar, editar y eliminar citas personal
 
 ---
 
-##  Tipo de Mantenimiento Propuesto
+##  Tipo de Mantenimiento Propuesto 😲
 
 | Tipo | Aplicación |
 |------|-------------|
@@ -54,7 +54,7 @@ Aplicación que permite **registrar, consultar, editar y eliminar citas personal
 ---
 
 ##  Reflexión sobre Control de Versiones
-El uso de **Git** facilita registrar cambios, trabajar en equipo, volver a versiones anteriores y mantener orden en el desarrollo.  
+El uso de **Github** facilita registrar cambios, trabajar en equipo, volver a versiones anteriores y mantener orden en el desarrollo.  
 Es esencial para **controlar el mantenimiento** y evolución del software de manera profesional.
 
 ---
